@@ -4,4 +4,9 @@ node_js:
   - "6"
   - "8"
   - "10"
+  
+os:
+  - linux
+  - linux-ppc64le
+
 
